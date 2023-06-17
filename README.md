@@ -6,7 +6,11 @@ This model assignes a sentiment to each individual word, out of context from the
 
 The default nltk stop words list had to be expanded and include common words on political pages like "party", and "united" which skew sentiment in the positive direction.
 
-The difference in results between the sum,mean and median graphs is subtle but worthwhile. Candidates with much longer articles obviously have a higher chance of having their sum score skewed in one way or another if the sentiment is consistent throughout the article. The median could be the most valuable metric to compare candidates, becuase the 
+The difference in results between the sum,mean and median graphs is subtle but worthwhile. Candidates with much longer articles obviously have a higher chance of having their sum score skewed in one way or another if the sentiment is consistent throughout the article. The median could be the most valuable metric to compare candidates, becuase there are no large outliers and the scale is more human digestable.
+
+In conclusion, I don't this this tells you anything you don't already know, or at least don't already have an instinct toward the results. At the very least it is an interesting exercise in perhaps uncovering minor biases in these artices between the lesser known candiates. 
+
+
 
 
 ![sum_sen_score](https://github.com/Luke-Chesley/Wiki-page-sentiment/assets/106439301/22868546-db42-4e0f-ba28-2ba0e3af7c35)
