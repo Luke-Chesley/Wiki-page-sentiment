@@ -1,15 +1,14 @@
 
 
-Demonstration of NLP using python package NLTK. Scrapes articles from wikipedia and assigns a sentiment using nltk.sentiment.vader SentimentIntensityAnalyzer. This is done for all the declared 2024 presidential candidates, then the results are graphed and color coded acccording to party affilation. 
+Demonstration of NLP using the Python package NLTK. Scrapes articles from Wikipedia and assigns sentiment using nltk.sentiment.vader SentimentIntensityAnalyzer. This is done for all the declared 2024 presidential candidates, and then the results are graphed and color-coded according to party affiliation.
 
-This model assignes a sentiment to each individual word, out of context from the words around it, between -1 and 1. Different aggregates of those results are then plotted. Further analysis will involve taking the sentiment of sentences and paragraphs as a whole, which allows the model to have more context of the words, but for this simple demonstration it only sees and responds to one word at a time.
+This model assigns a sentiment to each individual word, out of context from the words around it, between -1 and 1. Different aggregates of those results are then plotted. Further analysis will involve taking the sentiment of sentences and paragraphs as a whole, which allows the model to have more context of the words. However, for this simple demonstration, it only sees and responds to one word at a time.
 
-The default nltk stop words list had to be expanded and include common words on political pages like "party", and "united" which skew sentiment in the positive direction.
+The default NLTK stop words list had to be expanded to include common words on political pages like "party" and "united," which skew sentiment in the positive direction.
 
-The difference in results between the sum,mean and median graphs is subtle but worthwhile. Candidates with much longer articles obviously have a higher chance of having their sum score skewed in one way or another if the sentiment is consistent throughout the article. The median could be the most valuable metric to compare candidates, becuase there are no large outliers and the scale is more human digestable.
+The difference in results between the sum, mean, and median graphs is subtle but worthwhile. Candidates with much longer articles obviously have a higher chance of having their sum score skewed in one way or another if the sentiment is consistent throughout the article. The median could be the most valuable metric to compare candidates because there are no large outliers, and the scale is more easily digestible for humans.
 
-In conclusion, I don't this this tells you anything you don't already know, or at least don't already have an instinct toward the results. At the very least it is an interesting exercise in perhaps uncovering minor biases in these artices between the lesser known candiates. 
-
+In conclusion, I don't think this tells you anything you don't already know or at least don't already have an instinct toward the results. At the very least, it is an interesting exercise in perhaps uncovering minor biases in these articles between the lesser-known candidates.
 
 
 
