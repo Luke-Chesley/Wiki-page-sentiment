@@ -24,6 +24,6 @@ This is a dispersion graph of common words used at the inugural addresses of the
 
 # ![Dispersion Plot](images/dispersion_plot_of_speeches.png)
 
-The similarity of Obama's and Biden's address is interesting. They are approximatly the same length and have a similar distrobustion of key words. Trump's speech is much shorter, and invokes these buzzwords much more frequently. Biden is the only one who used the word "democracy" and he used it 11 times and 5 times in the first 56 notable (excluding stops) words.  
+The similarity of Obama's and Biden's address is interesting. They are approximatly the same length and have a similar distribution of key words. Trump's speech is much shorter, and invokes these buzzwords much more frequently. Biden is the only one who used the word "democracy" and he used it 11 times and 5 times in the first 56 notable (excluding stops) words.  
 
 
