@@ -19,3 +19,11 @@ The difference in results between the sum, mean, and median graphs is subtle but
 
 
 In conclusion, I don't think this tells you anything you don't already know or at least don't already have an instinct towards. At the very least, it is an interesting exercise in perhaps uncovering minor biases in these articles between the lesser-known candidates.
+
+This is a dispersion graph of common words used at the inugural addresses of the last 3 presidents.
+
+# ![Dispersion Plot](images/dispersion_plot_of_speeches.png)
+
+The similarity of Obama's and Biden's address is interesting. They are approximatly the same length and have a similar distrobustion of key words. Trump's speech is much shorter, and invokes these buzzwords much more frequently. Biden is the only one who used the word "democracy" and he used it 11 times and 5 times in the first 56 notable (excluding stops) words.  
+
+
