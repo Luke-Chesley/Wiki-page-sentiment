@@ -14,7 +14,7 @@ The difference in results between the sum, mean, and median graphs is subtle but
 ![Words Graph](images/5e221266-6bcd-492f-8361-18ff515f83f5.png)
 
 
-![Sentences Graph]()
+![Sentences Graph](images/7988427d-6957-4b8b-bcd1-fa2e41bf66bd.png)
 
 
 In conclusion, I don't think this tells you anything you don't already know or at least don't already have an instinct towards. At the very least, it is an interesting exercise in perhaps uncovering minor biases in these articles between the lesser-known candidates.
