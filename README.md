@@ -12,10 +12,4 @@ In conclusion, I don't think this tells you anything you don't already know or a
 
 
 
-![sum_sen_score](https://github.com/Luke-Chesley/Wiki-page-sentiment/assets/106439301/22868546-db42-4e0f-ba28-2ba0e3af7c35)
-
-![mean_sen_score](https://github.com/Luke-Chesley/Wiki-page-sentiment/assets/106439301/bfe55bce-cbee-4c37-8c0e-56b8f6fc8178)
-
-![median_sen_score](https://github.com/Luke-Chesley/Wiki-page-sentiment/assets/106439301/fbc370a1-401c-4840-b7b6-49ed26dd1228)
-
-
+![Words Graph](images/5e221266-6bcd-492f-8361-18ff515f83f5.png)
