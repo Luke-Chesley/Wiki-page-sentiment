@@ -10,10 +10,11 @@ The difference in results between the sum, mean, and median graphs is subtle but
 
 
 
-
+# Individual word sentiment analysis
 ![Words Graph](images/5e221266-6bcd-492f-8361-18ff515f83f5.png)
 
 
+# Sentence sentiment analysis
 ![Sentences Graph](images/7988427d-6957-4b8b-bcd1-fa2e41bf66bd.png)
 
 
