@@ -23,8 +23,13 @@ In conclusion, I don't think this tells you anything you don't already know or a
 # Dispersion Plot
 This is a dispersion graph of common words used at the inugural addresses of the last 3 presidents.
 
-# ![Dispersion Plot](images/dispersion_plot_of_speeches44_45_46.png)
+![Dispersion Plot](images/dispersion_plot_of_speeches44_45_46.png)
 
 The similarity of Obama's and Biden's address is interesting. They are approximatly the same length and have a similar distribution of key words. Trump's speech is much shorter, and invokes these buzzwords much more frequently. Biden is the only one who used the word "democracy" and he used it 11 times and 5 times in the first 56 notable (excluding stops) words. Trump is the only one to use the word "winning".
 
+# Sentiment analysis of inagurual speeches of the last 13 presidents. (first term)
+
+![Speech Graph](images/speech_sent_analysis.png)
+
+If this were colored by political party it could be more informative. You would generally expect these speeches to be positive but Truman and Eisenhower are amoung the leaders in all 3 measurements. Truman took office only 8 days prior to the death of Hitler (although his inugural address was in January) HWBush is also quite positive in general, his term and prior Vice Presidiency correlating with the demise of the Soviet Union, which was addressed in his speech. 
 
