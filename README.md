@@ -37,3 +37,5 @@ If this were colored by political party it could be more informative. You would 
 
 ![Superlative graph](images/superlative_graph.png)
 
+Interestingly, Trump used the least amount of superlative/comparitive words in his inugural adderss, which contrasts my opinion of his general public demenor
+
