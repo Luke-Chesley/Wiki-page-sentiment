@@ -31,11 +31,13 @@ The similarity of Obama's and Biden's address is interesting. They are approxima
 
 ![Speech Graph](images/speech_sent_analysis.png)
 
-If this were colored by political party it could be more informative. You would generally expect these speeches to be positive but Truman and Eisenhower are amoung the leaders in all 3 measurements. Truman took office only 8 days prior to the death of Hitler (although his inugural address was in January) HWBush is also quite positive in general, his term and prior Vice Presidiency correlating with the demise of the Soviet Union, which was addressed in his speech. 
+If this were colored by political party, it could be more informative. You would generally expect these speeches to be positive, but Truman and Eisenhower are among the leaders in all 3 measurements. Truman took office only 8 days prior to the death of Hitler (although his inaugural address was in January). HWBush is also quite positive in general, his term and prior Vice Presidency correlating with the demise of the Soviet Union, which was addressed in his speech.
 
 # Frequency of superlative/comparitive adjectives and superlative/comparative adverbs
 
 ![Superlative graph](images/superlative_graph.png)
 
-Interestingly, Trump used the least amount of superlative/comparitive words in his inugural adderss, which contrasts my opinion of his general public demenor
+Interestingly, Trump used the least amount of superlative/comparative words in his inaugural address, which contrasts my opinion of his general public demeanor.
+
+
 
