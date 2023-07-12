@@ -39,5 +39,13 @@ If this were colored by political party, it could be more informative. You would
 
 Interestingly, Trump used the least amount of superlative/comparative words in his inaugural address, which contrasts my opinion of his general public demeanor.
 
+# P-value chart of various parts of speech
+
+![Pos graph](images/2023-07-12-123826_2982x418_scrot.png)
+
+
+
+
+
 
 
