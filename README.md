@@ -46,11 +46,9 @@ Interestingly, Trump used the least amount of superlative/comparative words in h
 
 # P-value chart of various parts of speech
 
+The below chart are the p-values of the frequency from the above chart. All of the p-values that are above 0.95 or below 0.05 are highlighted. This assumes a normal distribution of parts of speech. Some interesting trends. The p-value of NN (common nouns) is trending up over time while the p-value of NNP(proper nouns) is trending down over time. This indicates that the frequency of common nouns is increasing and proper nouns is decreasing. Are presidents being less specific in their language purposely? Or is this a trend seen across all spoken english?  
+
 ![Pos graph](images/2023-07-12-123826_2982x418_scrot.png)
-
-All of the p-values that are above 0.95 or below 0.05 are highlighted. This assumes a normal distribution of parts of speech. Some interesting trends. The p-value of NN (common nouns) is trending up over time while the p-value of NNP(proper nouns) is trending down over time. This indicates that the frequency of common nouns is increasing and proper nouns is decreasing. Are presidents being less specific in their language purposely? Or is this a trend seen across all spoken english?  
-
-
 
 
 
